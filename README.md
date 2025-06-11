@@ -3,9 +3,9 @@
 🔐 Random Password Generator
 A modern, responsive web application that allows users to generate secure and customizable passwords using various character types. The app also features clipboard functionality, a password strength indicator, and optional UI enhancements like dark/light mode.
 
-📸 Screenshot
+📸 Screenshot(Output)
 
-(Update with actual image after project deployment)
+![image](https://github.com/user-attachments/assets/14727e2d-ad22-40a0-ae40-be35c80a7d81)
 
 🧩 Features Implemented
 ✅ Password Display Area
